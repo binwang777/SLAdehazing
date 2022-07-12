@@ -31,7 +31,7 @@ It should be noted that the qualitative results of the first-stage results are b
 You can get our parameter file from the link below
 https://drive.google.com/drive/folders/1xq1tg7wvNJeZTw8w4RnqEsJzQRcmHLCI?usp=sharing
 
-## Data-get
+## Data-Get
 We will give a link to the data we used for training, please wait while we sort out the training code.<br/>
 The data used for testing can be obtained through the following links:<br/>
 <b>SOTS:</b> http://t.cn/RQ34zUi<br/>
