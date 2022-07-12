@@ -1,3 +1,8 @@
+# News
+Good News, A new work has been accepted by ACMMM2022:</p>
+Learning Hierarchical Dynamics with Spatial Adjacency for Image Enhancement </p>
+This is our first exploration of a unified low-quality data augmentation network
+
 # SLAdehazing
 <b>Self-supervised Learning and Adaptation for Single Image Dehazing</b> (IJCAI-ECAI 2022 long presentation)</p>
 </p>
